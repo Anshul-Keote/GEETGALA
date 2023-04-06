@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085790259284",
+    "project_id": "geetgalareborn",
+    "storage_bucket": "geetgalareborn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085790259284:android:19c2cb4f02e94c549c85c1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085790259284-6s8hk87f2she97do84i8e3pm9pltr1gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyK8m42OtcKwWhftOfPSkY-bDqhOnQe7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085790259284-6s8hk87f2she97do84i8e3pm9pltr1gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
